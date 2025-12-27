@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Product Page</title>
+</head>
+<body>
+
+<h1>Our Products</h1>
+
+<div>
+    <h3>Smart Watch</h3>
+    <p>Price: ₹2999</p>
+    <button>Buy Now</button>
+</div>
+
+<div>
+    <h3>Wireless Earbuds</h3>
+    <p>Price: ₹1999</p>
+    <button>Buy Now</button>
+</div>
+
+</body>
+</html>
