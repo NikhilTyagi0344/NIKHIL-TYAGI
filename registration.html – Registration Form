@@ -22,7 +22,7 @@
     <select>
         <option>B.Tech</option>
         <option>BCA</option>
-        <option>MCA</option>
+        <option>BBA</option>
     </select><br><br>
 
     <button>Register</button>
