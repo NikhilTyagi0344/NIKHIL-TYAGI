@@ -1,0 +1,12 @@
+.profile {
+    text-align: center;
+}
+
+.profile img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+.profile h1 {
+    color: #2c3e50;
+}
