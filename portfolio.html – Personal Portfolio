@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Portfolio</title>
+</head>
+<body>
+
+<h1>Nikhil Tyagi</h1>
+<h3>B.Tech CSE Student</h3>
+
+<img src="profile.jpg" width="150">
+
+<h2>About Me</h2>
+<p>
+    I am a first year B.Tech CSE student.
+    I am learning HTML, CSS, and programming.
+</p>
+
+<h2>Skills</h2>
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>C Programming</li>
+    <li>C++</li>
+</ul>
+
+<h2>Contact</h2>
+<p>Email: example@gmail.com</p>
+
+</body>
+</html>
